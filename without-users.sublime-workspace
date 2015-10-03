@@ -1,0 +1,874 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bootstra",
+				"bootstrap-select.css"
+			],
+			[
+				"res",
+				"reseller"
+			],
+			[
+				"Re",
+				"Reseller"
+			],
+			[
+				"super",
+				"supervisors"
+			],
+			[
+				"area",
+				"area_id"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"mem",
+				"member"
+			],
+			[
+				"r",
+				"rowspan	Attr"
+			],
+			[
+				"member",
+				"membership_category"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"exp",
+				"experiences"
+			],
+			[
+				"mail",
+				"mail_box"
+			],
+			[
+				"wo",
+				"work_phone"
+			],
+			[
+				"work",
+				"work_place"
+			],
+			[
+				"mar",
+				"marital_status"
+			],
+			[
+				"number",
+				"social_secutiry_number"
+			],
+			[
+				"ag",
+				"age"
+			],
+			[
+				"na",
+				"nationality"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"post",
+				"post_meta"
+			],
+			[
+				"sub",
+				"sub_title"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"city",
+				"city_id"
+			],
+			[
+				"are",
+				"area_id"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"age",
+				"age_to"
+			],
+			[
+				"مدي",
+				"مدينة"
+			],
+			[
+				"activa",
+				"activated"
+			],
+			[
+				"sms",
+				"sms_user_name"
+			],
+			[
+				"sms_",
+				"sms_password"
+			],
+			[
+				"sms_use",
+				"sms_user_name"
+			],
+			[
+				"Contro",
+				"Controllers"
+			],
+			[
+				"pr",
+				"print_r"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"mess",
+				"message_type"
+			],
+			[
+				"cont",
+				"apd_continue"
+			],
+			[
+				"la",
+				"lat"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"ex",
+				"ex_date"
+			],
+			[
+				"bran",
+				"branchs"
+			],
+			[
+				"bra",
+				"branchs"
+			],
+			[
+				"branch",
+				"branch_id"
+			],
+			[
+				"sig",
+				"signiture_date"
+			],
+			[
+				"si",
+				"signiture"
+			],
+			[
+				"n",
+				"neighbourhood"
+			],
+			[
+				"wor",
+				"work_place"
+			],
+			[
+				"curren",
+				"current_job"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"width",
+				"width100"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"cu",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"product",
+				"product_sizes"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"volly_",
+				"volly_sizes_content"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"machines",
+				"machines-profile"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"box",
+				"box-content"
+			],
+			[
+				"calendar",
+				"calendar-view"
+			],
+			[
+				"index",
+				"_.indexOf"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"validate",
+				"validate-class"
+			],
+			[
+				"ppl",
+				"process.platform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"last_filter": "syntax java",
+		"selected_items":
+		[
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: PHP"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"dev",
+				"DevDocs: Search From Input"
+			],
+			[
+				"de",
+				"DevDocs: Search From Input"
+			],
+			[
+				"syntax pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"synta html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syntax ",
+				"Set Syntax: Jade"
+			]
+		],
+		"width": 359.0
+	},
+	"console":
+	{
+		"height": 371.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ibrahim/work/other/contacts-ang/without-users",
+		"/home/ibrahim/work/other/contacts-ang/without-users/public"
+	],
+	"file_history":
+	[
+		"/home/ibrahim/work/other/mail.project/mail.html",
+		"/home/ibrahim/work/other/mail.project/.git/.config.swp",
+		"/home/ibrahim/work/other/mail.project/.git/config",
+		"/home/ibrahim/work/www/Simple-ORM/README.md",
+		"/home/ibrahim/work/www/Simple-ORM/example.php",
+		"/home/ibrahim/work/www/Simple-ORM/SimpleOrm.class.php",
+		"/home/ibrahim/work/www/Simple-ORM/parameters.ini.dist",
+		"/home/ibrahim/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ibrahim/Desktop/يطير الحمام",
+		"/home/ibrahim/work/www/index.php",
+		"/home/ibrahim/work/www/index.html",
+		"/etc/php5/apache2/php.ini",
+		"/home/ibrahim/Desktop/LibreOffice_5.0.0.5_Linux_x86-64_deb/readmes/README_en-US",
+		"/home/ibrahim/Desktop/mydb.sql",
+		"/usr/share/mdm/html-themes/MDModern/slideshow.conf",
+		"/usr/share/mdm/html-themes/MDModern/index.html",
+		"/media/ibrahim/HDD-1/linux/Pictures/load.svg",
+		"/home/ibrahim/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ibrahim/work/other/contacts-ang/without-users/public/main.html",
+		"/home/ibrahim/work/mongomyadmin/config.php",
+		"/home/ibrahim/work/other/contacts-ang/without-users/server.js",
+		"/home/ibrahim/work/other/contacts-ang/without-users/api.js",
+		"/home/ibrahim/work/other/contacts-ang/without-users/package.json",
+		"/home/ibrahim/work/other/contacts-ang/bower.json",
+		"/home/ibrahim/Desktop/git-master/INSTALL",
+		"/home/ibrahim/work/other/contacts-ang/.bowerrc",
+		"/home/ibrahim/work/other/contacts-ang/package.json",
+		"/etc/fstab-ntfs-config-save",
+		"/etc/fstab",
+		"/home/ibrahim/Desktop/Entry",
+		"/etc/mtab",
+		"/home/ibrahim/.bash_history",
+		"/etc/passwd",
+		"/home/ibrahim/work/www/wa3i/app/Http/Controllers/MeController.php",
+		"/home/ibrahim/work/www/wa3i/sftp-config.json",
+		"/home/ibrahim/work/www/wa3i/config/database.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/auth/login.blade.php",
+		"/home/ibrahim/work/www/wa3i/app/Http/Controllers/MemberController.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/admin/member/member-edit.blade.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/admin/member/profile.blade.php",
+		"/home/ibrahim/work/www/wa3i/public/website/js/main.js",
+		"/home/ibrahim/work/www/wa3i/public/website/css/bootstrap-select.css",
+		"/home/ibrahim/work/www/wa3i/resources/views/website/website.blade.php",
+		"/home/ibrahim/Downloads/silviomoreto-bootstrap-select-a8ed49e/README.md",
+		"/home/ibrahim/work/node-webkit/enhancedHealthcareCenter/assets/views/beds/all.jade",
+		"/home/ibrahim/work/www/wa3i/public/website/js/bootstrap-select.min.js",
+		"/home/ibrahim/Downloads/silviomoreto-bootstrap-select-a8ed49e/js/bootstrap-select.js",
+		"/home/ibrahim/work/www/wa3i/public/website/css/fancySelect.css",
+		"/home/ibrahim/work/www/wa3i/public/website/js/fancySelect.js",
+		"/home/ibrahim/Downloads/spa.js-master/spa.js",
+		"/home/ibrahim/work/www/wa3i/public/website/css/pe-icon-7-stroke.css",
+		"/etc/apache2/sites-available/default-ssl.conf",
+		"/etc/apache2/sites-enabled/000-default.conf",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/etc/apache2/conf-available/security.conf",
+		"/etc/apache2/conf-available/charset.conf",
+		"/etc/apache2/envvars",
+		"/home/ibrahim/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/ibrahim/work/www/wa3i/public/website/css/responsive.css",
+		"/home/ibrahim/.config/sublime-text-3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/home/ibrahim/work/www/wa3i/public/website/css/rtl.css",
+		"/home/ibrahim/work/www/wa3i/resources/views/admin/member/users.blade.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/admin/member/users-search.blade.php",
+		"/home/ibrahim/work/www/wa3i/app/Http/Controllers/FormController.php",
+		"/home/ibrahim/work/www/wa3i/app/Http/Controllers/WebsiteController.php",
+		"/home/ibrahim/work/www/wa3i/app/User.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/admin/dashboard.blade.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/admin/reseller/reseller.blade.php",
+		"/home/ibrahim/work/www/wa3i/app/Http/Controllers/ResellerController.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/admin/member/supervisors.blade.php",
+		"/home/ibrahim/.cache/.fr-QPVdbz/SERIAL.txt",
+		"/home/ibrahim/work/www/wa3i/app/Http/routes.php",
+		"/home/ibrahim/work/www/wa3i/app/Models/Reseller.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/layout/admin-header.blade.php",
+		"/home/ibrahim/work/python/FlaskApp/templates/index.html",
+		"/home/ibrahim/work/www/laravel5/.env",
+		"/home/ibrahim/work/www/laravel5/app/Http/Kernel.php",
+		"/home/ibrahim/work/www/laravel5/app/Http/routes.php",
+		"/home/ibrahim/work/www/laravel5/config/database.php",
+		"/home/ibrahim/work/www/laravel5/config/app.php",
+		"/home/ibrahim/work/www/laravel5/app/User.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/emails/requestTransfer.blade.php",
+		"/home/ibrahim/Downloads/whois-info-domain-2015-06-02/example.php",
+		"/home/ibrahim/work/www/wa3i/app/Http/Controllers/DashboardController.php",
+		"/home/ibrahim/work/www/wa3i/app/Http/Controllers/HelperController.php",
+		"/home/ibrahim/Downloads/Themeforest-7315054-Bridge v6.3 - Creative Multi-Purpose WordPress Theme.Romty/readme.txt",
+		"/etc/pam.d/common-password",
+		"/home/ibrahim/work/www/wa3i/app/Http/Controllers/SupervisorController.php",
+		"/home/ibrahim/work/www/wa3i/public/admin/js/common-scripts.js",
+		"/home/ibrahim/Desktop/untitled.blade.php",
+		"/home/ibrahim/work/www/wa3i/public/admin/css/style.css",
+		"/home/ibrahim/Desktop/map/js/js.js",
+		"/home/ibrahim/Desktop/map/index.html",
+		"/home/ibrahim/Desktop/map/js.js",
+		"/home/ibrahim/Downloads/Highmaps-1.1.5/examples/geojson/index.htm",
+		"/home/ibrahim/Downloads/Highmaps-1.1.5/examples/all-maps/index.htm",
+		"/home/ibrahim/Downloads/Highmaps-1.1.5/examples/geojson/data.json",
+		"/home/ibrahim/Downloads/data.json",
+		"/home/ibrahim/Downloads/world.geo.json",
+		"/home/ibrahim/Downloads/ru-all.geo.json",
+		"/media/ibrahim/HDD-3/SSD/D/Desktop/c094a964dc9dfc619d2ec8c882b92982.txt",
+		"/home/ibrahim/Downloads/Highmaps-1.1.5/js/highmaps.js",
+		"/home/ibrahim/Downloads/Highmaps-1.1.5/api/js/ref.js",
+		"/home/ibrahim/Downloads/Highmaps-1.1.5/api/js/highmaps.json",
+		"/home/ibrahim/Downloads/africa.geo.json",
+		"/home/ibrahim/work/www/wa3i/resources/views/admin/member/supervisor-edit.blade.php",
+		"/home/ibrahim/Desktop/Link to htaccess.redirect.basedon.GEO.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/auth/reset.blade.php",
+		"/home/ibrahim/work/www/wa3i/resources/views/auth/password.blade.php",
+		"/home/ibrahim/work/www/wa3i/public/index.php",
+		"/home/ibrahim/work/www/laravel/public/index.php",
+		"/home/ibrahim/work/www/mahfouz-wp/index.php",
+		"/home/ibrahim/work/www/pagecomment/public/index.php",
+		"/home/ibrahim/work/www/shutstates/state/public/index.php",
+		"/home/ibrahim/work/www/wp41/index.php",
+		"/home/ibrahim/work/www/wp41ar/index.php",
+		"/home/ibrahim/work/www/wp42en/index.php",
+		"/home/ibrahim/work/www/wp391/index.php",
+		"/home/ibrahim/work/www/timetracker/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/ibrahim/work/www/timetracker/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/ibrahim/Videos/Marvel.Agents.of.S.H.I.E.L.D.S02E01-22.720p.WEB-DL.x264.AAC/Marvel.Agents.of.S.H.I.E.L.D.S02E04.Face.My.Enemy.720p.WEB-DL.x264.AAC.mp4.srt",
+		"/home/ibrahim/Videos/Marvel.Agents.of.S.H.I.E.L.D.S02E01-22.720p.WEB-DL.x264.AAC/Marvel.Agents.of.S.H.I.E.L.D.S02E02.Heavy.is.the.Head.720p.WEB-DL.x264.AAC.srt",
+		"/home/ibrahim/Videos/Marvel.Agents.of.S.H.I.E.L.D.S02E01-22.720p.WEB-DL.x264.AAC/Marvel.Agents.of.S.H.I.E.L.D.S02E01.Shadows.720p.WEB-DL.x264.AAC.srt",
+		"/home/ibrahim/.xsession-errors",
+		"/home/ibrahim/.cinnamon/glass.log",
+		"/home/ibrahim/Videos/arrow.03/Arrow.S03E23.My.Name.is.Oliver.Queen.720p.WEB-DL.x264.AAC/Arrow.S03E23.My.Name.is.Oliver.Queen.720p.WEB-DL.x264.AAC.srt",
+		"/home/ibrahim/work/www/wa3i/app/Http/Controllers/OptionController.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"extension",
+			"2",
+			"red",
+			"components",
+			"condition",
+			"100000",
+			"button",
+			"select",
+			"bootstrap",
+			"select",
+			"fancySelect",
+			"updateTriggerText",
+			"false",
+			"disabled",
+			"first_name",
+			"cities",
+			"degree",
+			"areas",
+			"resellers",
+			"areas",
+			"reseller",
+			"ex_to",
+			"card_url",
+			"reseller_id",
+			"Options",
+			"card",
+			"transfer",
+			"slides",
+			"Flight",
+			"name",
+			"City",
+			"User",
+			"supervisor",
+			"role",
+			"supervisor",
+			"reseller",
+			"supervisor",
+			"resellers",
+			"function",
+			"Form",
+			"Reseller",
+			"secret",
+			"homestead",
+			"Hash",
+			"requestTransfer",
+			"last_name",
+			"false",
+			"data",
+			"user",
+			"auth",
+			"branch_id",
+			"hide",
+			"click",
+			"area_id",
+			"\">",
+			"branchs",
+			"areas",
+			"branchs",
+			"branch",
+			"area",
+			"},{\"hc-key",
+			"},{\"hc-key\"",
+			"\n        ",
+			"\n            ",
+			"},{\"k",
+			"},{\"key\"",
+			"mapDataIndex",
+			"مفعل",
+			"Hash",
+			"$request->input('password')",
+			"required",
+			"Edit",
+			"postEdit",
+			"value=\"{{ old('password') }}\"",
+			"img",
+			"img_url",
+			"card_url",
+			"التفعيل",
+			"اسم العائلة",
+			"sex",
+			"img",
+			"card",
+			"img_url",
+			"card_url",
+			"img_url",
+			"card_url",
+			"first_name",
+			"alpha_num",
+			"}",
+			"organizations",
+			"first_name",
+			"ابرايهم",
+			"first_name",
+			"ابرايهم",
+			"first_name",
+			"ابرايهم",
+			"<th style=\"",
+			"<td style=\"",
+			"<th style=\"",
+			"<td style=\"\"",
+			"<th style=\"\"",
+			"<td",
+			"<th",
+			"<th>",
+			"<th style=\"",
+			"<td style=\"",
+			"<th style=\"",
+			"<td>",
+			"<th>",
+			"printDiv",
+			"table",
+			"print",
+			"e5e5e5",
+			"000",
+			"ccc",
+			"th",
+			"printDiv",
+			"label",
+			"lable",
+			"label",
+			"signiture",
+			"wa3i/public",
+			"@",
+			"rtl",
+			"mobile",
+			"ask",
+			"$q",
+			"slide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"networkother",
+			"http://localhost"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 188.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "without-users.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"168",
+				"storage/framework/views/16cf5411cf575fb879262361e56ef88a"
+			],
+			[
+				"fun",
+				"functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/work/www/blook/blook2-web/blook.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 306.0,
+		"last_filter": "getRequire",
+		"selected_items":
+		[
+			[
+				"getRequire",
+				"getRequire"
+			],
+			[
+				"Mail",
+				"mail"
+			],
+			[
+				"UrlGenerator",
+				"UrlGenerator"
+			],
+			[
+				"URL",
+				"URL"
+			],
+			[
+				"AuthController ",
+				"AuthController"
+			],
+			[
+				"attempt",
+				"attempt"
+			],
+			[
+				"authenticate",
+				"authenticate"
+			],
+			[
+				"get_adjacent_post_link",
+				"get_adjacent_post_link"
+			],
+			[
+				"next_post_link",
+				"get_next_post_link"
+			],
+			[
+				"wp_list_comments",
+				"wp_list_comments"
+			],
+			[
+				"twentyfifteen_comment_nav",
+				"twentyfifteen_comment_nav"
+			]
+		],
+		"width": 953.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "contacts-ang",
+  "version": "1.0.0",
+  "description": "simple book manager app",
+  "main": "server/server.js",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "bourne": "^0.4.0",
+    "express": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrahim",
+  "license": "GPL-3.0"
+}

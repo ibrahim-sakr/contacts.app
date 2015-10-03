@@ -1,0 +1,27 @@
+{
+  "name": "contacts-ang",
+  "version": "1.0.0",
+  "description": "simple book manager app",
+  "main": "public/index.html",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Ibrahim"
+  ],
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "bootstrap": "~3.3.5",
+    "angular-route": "~1.4.3",
+    "angular-resource": "~1.4.3",
+    "angular-messages": "~1.4.3"
+  }
+}
